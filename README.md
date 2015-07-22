@@ -1,8 +1,8 @@
 # Curriculum_vitae
 
-Here is my Curriculum vitae
+My Curriculum vitae is attached as a PDF file. 
 
-Summary of myself:
+Quick summary of myself:
 
 Education:
 Bachelors: Iowa State University, 2009-2013, Animal Science
