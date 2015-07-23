@@ -6,6 +6,8 @@ Quick summary of myself:
 
 Education:
 
+Add new line
+
 Bachelors: Iowa State University, 2009-2013, Animal Science
 
 Masters: North Carolina State University, 2013-2015, Animal Breeding and Genetics - Stats Minor
