@@ -2,8 +2,6 @@
 
 My Curriculum vitae is attached as a PDF 
 
-
-
 Quick summary of myself:
 
 Education:
