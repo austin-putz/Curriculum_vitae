@@ -1,6 +1,6 @@
 # Curriculum_vitae
 
-My Curriculum vitae is attached as a PDF file. 
+My Curriculum vitae is attached as a PDF 
 
 
 
