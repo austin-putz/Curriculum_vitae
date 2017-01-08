@@ -6,13 +6,13 @@ My Curriculum vitae is attached as a PDF
 
 **Education:**
 
-Bachelors: Iowa State University, 2009-2013, Animal Science
+PhD: Iowa State University, 2015-2018 (expected), Animal Breeding and Genetics - Stats Minor
 
 Masters: North Carolina State University, 2013-2015, Animal Breeding and Genetics - Stats Minor
 
 * Committee: Mark Knauer, Chris Maltecca, Kent Gray, Howard Bondell (statistics)
 
-PhD: Iowa State University, 2015-??, Animal Breeding and Genetics - Stats Minor
+Bachelors: Iowa State University, 2009-2013, Animal Science
 
 **Skills:**
 
@@ -26,6 +26,7 @@ Intermediate:
 * BLUPF90 programs
 
 Beginner:
+* Julia
 * Python
 * DMU Programs
 
